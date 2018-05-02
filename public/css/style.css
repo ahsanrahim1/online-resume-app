@@ -2744,6 +2744,8 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     height: 530px;
     display: block;
     position: relative;
+    /*background-image: background.jpg;*/
+    background-image: url("background.jpg");
 }
 
     .inner-intro.inner-intro-small {
@@ -3952,6 +3954,11 @@ ul.project-detail-block, .project-detail-block ul {
 .shop-Cart-totalprice {
     font-size: 18px;
 }
+
+.card-body {
+    background: #C1CDCD;
+}
+
 
 /* =============================================================================================================================*/
 /* Parallax ------------------- */
